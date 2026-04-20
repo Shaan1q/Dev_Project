@@ -8,5 +8,6 @@ import SwiftUI
 struct Sample: View {
     var body: some View {
         Text("Hello, World!")
+        Text("Change number two!")
     }
 }
