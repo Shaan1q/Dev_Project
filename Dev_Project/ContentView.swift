@@ -14,7 +14,7 @@ struct ContentView: View {
             Image(systemName: "flag")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Exciting, isn't it!")
+            Text("Chemistry is tiring")
             Text("Change number one")
             Text("Another Text")
             
