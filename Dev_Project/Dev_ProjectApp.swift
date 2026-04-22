@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct Dev_ProjectApp: App {
+    var hiddenVariable = "Hidden Variable"
     var body: some Scene {
         WindowGroup {
             ContentView()
